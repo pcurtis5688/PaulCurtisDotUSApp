@@ -1,0 +1,2 @@
+include ':paulcurtisdotusapp'
+rootProject.name='PaulCurtisDotUSApp'
