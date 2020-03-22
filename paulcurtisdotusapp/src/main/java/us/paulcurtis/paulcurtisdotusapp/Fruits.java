@@ -6,5 +6,6 @@ public class Fruits {
         System.out.println("I love eating fruits");
         System.out.println("Mango is my favorite fruit");
         System.out.println("I love apples as well");
+
     }
 }
